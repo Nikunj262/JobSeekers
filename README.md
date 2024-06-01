@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to contact us at:
-- Email: support@jobseekers.com
+- Email: support@jobseekers.com, poojanpatel119@gmail.com, np2622000@gmail.com
 - GitHub Issues: [https://github.com/yourusername/jobseekers/issues](https://github.com/yourusername/jobseekers/issues)
 
 Thank you for using JobSeekers! We hope you find your perfect job soon.
